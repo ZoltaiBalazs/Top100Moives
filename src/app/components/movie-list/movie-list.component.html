@@ -1,0 +1,30 @@
+<ul class="movie-list">
+  @for (movie of movies; track movie.id) {
+    <li class="movie-item">
+      <div class="movie-poster">
+        <img [src]="movie.image" alt="{{ movie.title }} poster">
+      </div>
+  
+      <div class="movie-details">
+        <div class="movie-header">
+          <h3 class="movie-title">{{ movie.id }}. {{ movie.Title }}</h3>
+        </div>
+        <div class="movie-info">
+          <span class="release-date">{{ movie.Released }}</span>
+          <span class="runtime">{{ movie.Runtime }}</span>
+          <span class="rating">{{ movie.Rated }}</span>
+        </div>
+        <div class="movie-rating">
+          <span class="rating-value">{{ movie.imdbRating }}</span>
+          <i class="fa fa-star"></i> <!-- Small star icon -->
+        </div>
+      </div>
+  
+      <div class="movie-info-button">
+        <button class="info-button">
+          <i class="fa fa-info-circle"></i> <!-- Info Icon -->
+        </button>
+      </div>
+    </li>
+  }
+</ul>

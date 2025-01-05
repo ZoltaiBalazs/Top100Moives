@@ -1,0 +1,1888 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "Title": "The Shawshank Redemption",
+            "Rated": "R",
+            "Released": "14 Oct 1994",
+            "Runtime": "2 h 22 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Frank Darabont",
+            "Writer": "Stephen King, Frank Darabont",
+            "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+            "Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "imdbRating": "9.3",
+            "imdbID": "tt0111161",
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+        },
+        {
+            "id": 2,
+            "Title": "The Godfather",
+            "Rated": "R",
+            "Released": "24 Mar 1972",
+            "Runtime": "2 h 55 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Francis Ford Coppola",
+            "Writer": "Mario Puzo, Francis Ford Coppola",
+            "Actors": "Marlon Brando, Al Pacino, James Caan, Diane Keaton",
+            "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "imdbRating": "9.2",
+            "imdbID": "tt0068646",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe0%2F0c%2F65%2Fe00c65ab6a7dacccd276c2fd434de8f5.jpg&f=1&nofb=1&ipt=2d5fe150c607ec22e8680619f18323ecf082f4bd6d222034d74f3e0848795ea3&ipo=images"
+        },
+        {
+            "id": 3,
+            "Title": "The Godfather: Part II",
+            "Rated": "R",
+            "Released": "20 Dec 1974",
+            "Runtime": "3 h 20 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Francis Ford Coppola",
+            "Writer": "Francis Ford Coppola, Mario Puzo",
+            "Actors": "Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton",
+            "Plot": "The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
+            "imdbRating": "9.0",
+            "imdbID": "tt0071562",
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg"
+        },
+        {
+            "id": 4,
+            "Title": "Pulp Fiction",
+            "Rated": "R",
+            "Released": "14 Oct 1994",
+            "Runtime": "2 h 48 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Quentin Tarantino",
+            "Writer": "Quentin Tarantino, Roger Avary",
+            "Actors": "John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis",
+            "Plot": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "imdbRating": "9.0",
+            "imdbID": "tt0110912",
+            "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
+        },
+        {
+            "id": 5,
+            "Title": "The Good, the Bad and the Ugly",
+            "Rated": "M",
+            "Released": "29 Dec 1967",
+            "Runtime": "2 h 41 min",
+            "Genre": [
+                "Adventure",
+                "Western"
+            ],
+            "Director": "Sergio Leone",
+            "Writer": "Luciano Vincenzoni, Sergio Leone",
+            "Actors": "Clint Eastwood, Eli Wallach, Lee Van Cleef, Aldo Giuffrè",
+            "Plot": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+            "imdbRating": "9.0",
+            "imdbID": "tt0060196",
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Good_the_bad_and_the_ugly_poster.jpg"
+        },
+        {
+            "id": 6,
+            "Title": "The Dark Knight",
+            "Rated": "PG-13",
+            "Released": "18 Jul 2008",
+            "Runtime": "2 h 32 min",
+            "Genre": [
+                "Action",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Christopher Nolan",
+            "Writer": "Jonathan Nolan, Christopher Nolan",
+            "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+            "Plot": "When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.",
+            "imdbRating": "9.0",
+            "imdbID": "tt0468569",
+            "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg"
+        },
+        {
+            "id": 7,
+            "Title": "12 Angry Men",
+            "Rated": "Approved",
+            "Released": "01 Apr 1957",
+            "Runtime": "1 h 36 min",
+            "Genre": [
+                "Drama"
+            ],
+            "Director": "Sidney Lumet",
+            "Writer": "Reginald Rose",
+            "Actors": "Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler",
+            "Plot": "A dissenting juror in a murder trial slowly manages to convince the others that the case is not as obviously clear as it seemed in court.",
+            "imdbRating": "8.9",
+            "imdbID": "tt0050083",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/12_Angry_Men_%281957_film_poster%29.jpg/800px-12_Angry_Men_%281957_film_poster%29.jpg"
+        },
+        {
+            "id": 8,
+            "Title": "Schindler's List",
+            "Rated": "R",
+            "Released": "15 Dec 1993",
+            "Runtime": "3 h 15 min",
+            "Genre": [
+                "Biography",
+                "Drama",
+                "History",
+                "War"
+            ],
+            "Director": "Steven Spielberg",
+            "Writer": "Thomas Keneally, Steven Zaillian",
+            "Actors": "Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall",
+            "Plot": "In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+            "imdbRating": "8.9",
+            "imdbID": "tt0108052",
+            "image": "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg"
+        },
+        {
+            "id": 9,
+            "Title": "The Lord of the Rings: The Return of the King",
+            "Rated": "PG-13",
+            "Released": "17 Dec 2003",
+            "Runtime": "3 h 21 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "Director": "Peter Jackson",
+            "Writer": "J.R.R. Tolkien, Fran Walsh",
+            "Actors": "Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom",
+            "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+            "imdbRating": "8.9",
+            "imdbID": "tt0167260",
+            "image": "https://upload.wikimedia.org/wikipedia/en/4/48/Lord_Rings_Return_King.jpg"
+        },
+        {
+            "id": 10,
+            "Title": "Fight Club",
+            "Rated": "R",
+            "Released": "15 Oct 1999",
+            "Runtime": "2 h 19 min",
+            "Genre": [
+                "Drama"
+            ],
+            "Director": "David Fincher",
+            "Writer": "Chuck Palahniuk, Jim Uhls",
+            "Actors": "Brad Pitt, Edward Norton, Helena Bonham Carter, Meat Loaf",
+            "Plot": "An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more...",
+            "imdbRating": "8.8",
+            "imdbID": "tt0137523",
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg"
+        },
+        {
+            "id": 11,
+            "Title": "Star Wars: Episode V - The Empire Strikes Back",
+            "Rated": "PG",
+            "Released": "21 May 1980",
+            "Runtime": "2 h 7 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Director": "Irvin Kershner",
+            "Writer": "Leigh Brackett, Lawrence Kasdan",
+            "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+            "Plot": "After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.",
+            "imdbRating": "8.8",
+            "imdbID": "tt0080684",
+            "image": "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29.jpg"
+        },
+        {
+            "id": 12,
+            "Title": "The Lord of the Rings: The Fellowship of the Ring",
+            "Rated": "PG-13",
+            "Released": "19 Dec 2001",
+            "Runtime": "2 h 58 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "Director": "Peter Jackson",
+            "Writer": "J.R.R. Tolkien, Fran Walsh",
+            "Actors": "Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean",
+            "Plot": "A meek hobbit of The Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.",
+            "imdbRating": "8.8",
+            "imdbID": "tt0120737",
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg"
+        },
+        {
+            "id": 13,
+            "Title": "One Flew Over the Cuckoo's Nest",
+            "Rated": "R",
+            "Released": "21 Nov 1975",
+            "Runtime": "2 h 13 min",
+            "Genre": [
+                "Drama"
+            ],
+            "Director": "Milos Forman",
+            "Writer": "Lawrence Hauben, Bo Goldman",
+            "Actors": "Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco",
+            "Plot": "Upon admittance to a mental institution, a brash rebel rallies the patients to take on the oppressive head nurse.",
+            "imdbRating": "8.8",
+            "imdbID": "tt0073486",
+            "image": "https://upload.wikimedia.org/wikipedia/en/2/26/One_Flew_Over_the_Cuckoo%27s_Nest_poster.jpg"
+        },
+        {
+            "id": 14,
+            "Title": "Inception",
+            "Rated": "PG-13",
+            "Released": "16 Jul 2010",
+            "Runtime": "2 h 28 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Mystery",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "Director": "Christopher Nolan",
+            "Writer": "Christopher Nolan",
+            "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Ken Watanabe",
+            "Plot": "A skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.",
+            "imdbRating": "8.8",
+            "imdbID": "tt1375666",
+            "image": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_(2010)_theatrical_poster.jpg"
+        },
+        {
+            "id": 15,
+            "Title": "Goodfellas",
+            "Rated": "R",
+            "Released": "19 Sep 1990",
+            "Runtime": "2 h 26 min",
+            "Genre": [
+                "Biography",
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Martin Scorsese",
+            "Writer": "Nicholas Pileggi, Nicholas Pileggi",
+            "Actors": "Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco",
+            "Plot": "Henry Hill and his friends work their way up through the mob hierarchy.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0099685",
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Goodfellas.jpg"
+        },
+        {
+            "id": 16,
+            "Title": "Star Wars",
+            "Rated": "PG",
+            "Released": "25 May 1977",
+            "Runtime": "2 h 1 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "Director": "George Lucas",
+            "Writer": "George Lucas",
+            "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness",
+            "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0076759",
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg"
+        },
+        {
+            "id": 17,
+            "Title": "Seven Samurai",
+            "Rated": "Unrated",
+            "Released": "19 Nov 1956",
+            "Runtime": "2 h 38 min",
+            "Genre": [
+                "Action",
+                "Drama"
+            ],
+            "Director": "Akira Kurosawa",
+            "Writer": "Akira Kurosawa, Shinobu Hashimoto",
+            "Actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki",
+            "Plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+            "imdbRating": "8.8",
+            "imdbID": "tt0047478",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Seven_Samurai_poster.jpg/100px-Seven_Samurai_poster.jpg"
+        },
+        {
+            "id": 18,
+            "Title": "Forrest Gump",
+            "Rated": "PG-13",
+            "Released": "06 Jul 1994",
+            "Runtime": "2 h 22 min",
+            "Genre": [
+                "Drama",
+                "Romance"
+            ],
+            "Director": "Robert Zemeckis",
+            "Writer": "Winston Groom, Eric Roth",
+            "Actors": "Tom Hanks, Robin Wright, Gary Sinise, Sally Field",
+            "Plot": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0109830",
+            "image": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+        },
+        {
+            "id": 19,
+            "Title": "The Matrix",
+            "Rated": "R",
+            "Released": "31 Mar 1999",
+            "Runtime": "2 h 16 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "Director": "Andy Wachowski, Lana Wachowski",
+            "Writer": "Andy Wachowski, Lana Wachowski",
+            "Actors": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving",
+            "Plot": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0133093",
+            "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+        },
+        {
+            "id": 20,
+            "Title": "The Lord of the Rings: The Two Towers",
+            "Rated": "PG-13",
+            "Released": "18 Dec 2002",
+            "Runtime": "2 h 59 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "Director": "Peter Jackson",
+            "Writer": "J.R.R. Tolkien, Fran Walsh",
+            "Actors": "Elijah Wood, Ian McKellen, Viggo Mortensen, Orlando Bloom",
+            "Plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0167261",
+            "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Lord_Rings_Two_Towers.jpg"
+        },
+        {
+            "id": 21,
+            "Title": "City of God",
+            "Rated": "R",
+            "Released": "N/A",
+            "Runtime": "2 h 10 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Fernando Meirelles, Kátia Lund",
+            "Writer": "Paulo Lins, Bráulio Mantovani",
+            "Actors": "Alexandre Rodrigues, Matheus Nachtergaele, Leandro Firmino, Phellipe Haagensen",
+            "Plot": "Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0317248",
+            "image": "https://upload.wikimedia.org/wikipedia/en/1/10/CidadedeDeus.jpg"
+        },
+        {
+            "id": 22,
+            "Title": "Se7en",
+            "Rated": "R",
+            "Released": "22 Sep 1995",
+            "Runtime": "2 h 7 min",
+            "Genre": [
+                "Crime",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "David Fincher",
+            "Writer": "Andrew Kevin Walker",
+            "Actors": "Morgan Freeman, Brad Pitt, Kevin Spacey, Andrew Kevin Walker",
+            "Plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0114369",
+            "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg"
+        },
+        {
+            "id": 23,
+            "Title": "The Silence of the Lambs",
+            "Rated": "R",
+            "Released": "14 Feb 1991",
+            "Runtime": "1 h 58 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Jonathan Demme",
+            "Writer": "Thomas Harris, Ted Tally",
+            "Actors": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney, Kasi Lemmons",
+            "Plot": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0102926",
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg"
+        },
+        {
+            "id": 24,
+            "Title": "Once Upon a Time in the West",
+            "Rated": "M",
+            "Released": "21 Dec 1968",
+            "Runtime": "2 h 55 min",
+            "Genre": [
+                "Adventure",
+                "Western"
+            ],
+            "Director": "Sergio Leone",
+            "Writer": "Sergio Leone, Sergio Donati",
+            "Actors": "Henry Fonda, Charles Bronson, Claudia Cardinale, Jason Robards",
+            "Plot": "Epic story of a mysterious stranger with a harmonica who joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0064116",
+            "image": "https://upload.wikimedia.org/wikipedia/en/a/a2/Once_upon_a_Time_in_the_West.jpg"
+        },
+        {
+            "id": 25,
+            "Title": "Casablanca",
+            "Rated": "PG",
+            "Released": "23 Jan 1943",
+            "Runtime": "1 h 42 min",
+            "Genre": [
+                "Drama",
+                "Romance",
+                "War"
+            ],
+            "Director": "Michael Curtiz",
+            "Writer": "Julius J. Epstein, Philip G. Epstein",
+            "Actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",
+            "Plot": "Set in unoccupied Africa during the early days of World War II: An American expatriate meets a former lover, with unforeseen complications.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0034583",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg"
+        },
+        {
+            "id": 26,
+            "Title": "The Usual Suspects",
+            "Rated": "R",
+            "Released": "16 Aug 1995",
+            "Runtime": "1 h 46 min",
+            "Genre": [
+                "Crime",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Bryan Singer",
+            "Writer": "Christopher McQuarrie",
+            "Actors": "Kevin Spacey, Gabriel Byrne, Chazz Palminteri, Stephen Baldwin",
+            "Plot": "A boat has been destroyed, criminals are dead, and the key to this mystery lies with the only survivor and his twisted, convoluted story beginning with five career crooks in a seemingly random police lineup.",
+            "imdbRating": "8.7",
+            "imdbID": "tt0114814",
+            "image": null
+        },
+        {
+            "id": 27,
+            "Title": "Raiders of the Lost Ark",
+            "Rated": "PG",
+            "Released": "12 Jun 1981",
+            "Runtime": "1 h 55 min",
+            "Genre": [
+                "Action",
+                "Adventure"
+            ],
+            "Director": "Steven Spielberg",
+            "Writer": "Lawrence Kasdan, George Lucas",
+            "Actors": "Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies",
+            "Plot": "Archeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the Nazis.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0082971",
+            "image": null
+        },
+        {
+            "id": 28,
+            "Title": "Rear Window",
+            "Rated": "Approved",
+            "Released": "29 Jan 1955",
+            "Runtime": "1 h 52 min",
+            "Genre": [
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Alfred Hitchcock",
+            "Writer": "John Michael Hayes, Cornell Woolrich",
+            "Actors": "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter",
+            "Plot": "A wheelchair bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0047396",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rear_Window_film_poster.jpg/100px-Rear_Window_film_poster.jpg"
+        },
+        {
+            "id": 29,
+            "Title": "It's a Wonderful Life",
+            "Rated": "Approved",
+            "Released": "07 Jan 1947",
+            "Runtime": "2 h 10 min",
+            "Genre": [
+                "Drama",
+                "Family",
+                "Fantasy"
+            ],
+            "Director": "Frank Capra",
+            "Writer": "Frances Goodrich, Albert Hackett",
+            "Actors": "James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell",
+            "Plot": "An angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0038650",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/It%27s_a_Wonderful_Life_%281946_poster%29.jpeg/100px-It%27s_a_Wonderful_Life_%281946_poster%29.jpeg"
+        },
+        {
+            "id": 30,
+            "Title": "Psycho",
+            "Rated": "R",
+            "Released": "08 Sep 1960",
+            "Runtime": "1 h 49 min",
+            "Genre": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Alfred Hitchcock",
+            "Writer": "Joseph Stefano, Robert Bloch",
+            "Actors": "Anthony Perkins, Janet Leigh, Vera Miles, John Gavin",
+            "Plot": "A Phoenix secretary steals $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0054215",
+            "image": null
+        },
+        {
+            "id": 31,
+            "Title": "Léon: The Professional",
+            "Rated": "Unrated",
+            "Released": "18 Nov 1994",
+            "Runtime": "1 h 50 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Luc Besson",
+            "Writer": "Luc Besson",
+            "Actors": "Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello",
+            "Plot": "A professional assassin rescues a young girl whose parents were killed in a police raid.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0110413",
+            "image": null
+        },
+        {
+            "id": 32,
+            "Title": "Sunset Blvd.",
+            "Rated": "Not Rated",
+            "Released": "25 Aug 1950",
+            "Runtime": "1 h 50 min",
+            "Genre": [
+                "Drama",
+                "Film-Noir"
+            ],
+            "Director": "Billy Wilder",
+            "Writer": "Charles Brackett, Billy Wilder",
+            "Actors": "William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson",
+            "Plot": "A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0043014",
+            "image": null
+        },
+        {
+            "id": 33,
+            "Title": "American History X",
+            "Rated": "R",
+            "Released": "12 Feb 1999",
+            "Runtime": "1 h 59 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Tony Kaye",
+            "Writer": "David McKenna",
+            "Actors": "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",
+            "Plot": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0120586",
+            "image": null
+        },
+        {
+            "id": 34,
+            "Title": "Apocalypse Now",
+            "Rated": "R",
+            "Released": "15 Aug 1979",
+            "Runtime": "2 h 33 min",
+            "Genre": [
+                "Drama",
+                "War"
+            ],
+            "Director": "Francis Ford Coppola",
+            "Writer": "John Milius, Francis Ford Coppola",
+            "Actors": "Martin Sheen, Marlon Brando, Robert Duvall, Frederic Forrest",
+            "Plot": "During the U.S.-Viet Nam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0078788",
+            "image": null
+        },
+        {
+            "id": 35,
+            "Title": "Terminator 2: Judgment Day",
+            "Rated": "R",
+            "Released": "03 Jul 1991",
+            "Runtime": "2 h 32 min",
+            "Genre": [
+                "Action",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "Director": "James Cameron",
+            "Writer": "James Cameron, William Wisher Jr.",
+            "Actors": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",
+            "Plot": "The cyborg who once tried to kill Sarah Connor is dead, and another T-101 must now protect her teenage son, John Connor, from an even more powerful and advanced Terminator, the T-1000.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0103064",
+            "image": null
+        },
+        {
+            "id": 36,
+            "Title": "Saving Private Ryan",
+            "Rated": "TV-MA",
+            "Released": "24 Jul 1998",
+            "Runtime": "2 h 49 min",
+            "Genre": [
+                "Action",
+                "Drama",
+                "War"
+            ],
+            "Director": "Steven Spielberg",
+            "Writer": "Robert Rodat",
+            "Actors": "Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns",
+            "Plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0120815",
+            "image": null
+        },
+        {
+            "id": 37,
+            "Title": "Memento",
+            "Rated": "R",
+            "Released": "11 Oct 2000",
+            "Runtime": "1 h 53 min",
+            "Genre": [
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Christopher Nolan",
+            "Writer": "Christopher Nolan, Jonathan Nolan",
+            "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
+            "Plot": "A man, suffering from short-term memory loss, uses notes and tattoos to hunt for the man he thinks killed his wife.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0209144",
+            "image": null
+        },
+        {
+            "id": 38,
+            "Title": "City Lights",
+            "Rated": "G",
+            "Released": "07 Mar 1931",
+            "Runtime": "1 h 27 min",
+            "Genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Director": "Charles Chaplin",
+            "Writer": "Charles Chaplin",
+            "Actors": "Charles Chaplin, Virginia Cherrill, Florence Lee, Harry Myers",
+            "Plot": "The Tramp struggles to help a blind flower girl he has fallen in love with.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0021749",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/City_Lights_%281931_theatrical_poster_-_retouched%29.jpg/100px-City_Lights_%281931_theatrical_poster_-_retouched%29.jpg"
+        },
+        {
+            "id": 39,
+            "Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "Rated": "Approved",
+            "Released": "29 Jan 1964",
+            "Runtime": "1 h 35 min",
+            "Genre": [
+                "Comedy",
+                "Sci-Fi",
+                "War"
+            ],
+            "Director": "Stanley Kubrick",
+            "Writer": "Stanley Kubrick, Terry Southern",
+            "Actors": "Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn",
+            "Plot": "An insane general starts a process to nuclear holocaust that a war room of politicians and generals frantically try to stop.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0057012",
+            "image": null
+        },
+        {
+            "id": 40,
+            "Title": "Alien",
+            "Rated": "TV-14",
+            "Released": "22 Jun 1979",
+            "Runtime": "1 h 57 min",
+            "Genre": [
+                "Horror",
+                "Sci-Fi"
+            ],
+            "Director": "Ridley Scott",
+            "Writer": "Dan O'Bannon, Ronald Shusett",
+            "Actors": "Sigourney Weaver, Tom Skerritt, John Hurt, Veronica Cartwright",
+            "Plot": "The commercial vessel Nostromo receives a distress call from an unexplored planet. After searching for survivors, the crew heads home only to realize that a deadly bioform has joined them.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0078748",
+            "image": null
+        },
+        {
+            "id": 41,
+            "Title": "Modern Times",
+            "Rated": "Approved",
+            "Released": "25 Feb 1936",
+            "Runtime": "1 h 27 min",
+            "Genre": [
+                "Comedy",
+                "Drama"
+            ],
+            "Director": "Charles Chaplin",
+            "Writer": "Charles Chaplin",
+            "Actors": "Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford",
+            "Plot": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0027977",
+            "image": null
+        },
+        {
+            "id": 42,
+            "Title": "Spirited Away",
+            "Rated": "PG",
+            "Released": "20 Jul 2001",
+            "Runtime": "2 h 5 min",
+            "Genre": [
+                "Animation",
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "Director": "Hayao Miyazaki",
+            "Writer": "Hayao Miyazaki",
+            "Actors": "Daveigh Chase, Suzanne Pleshette, Miyu Irino, Susan Egan",
+            "Plot": "In the middle of her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and monsters; where humans are changed into animals; and a bathhouse for these creatures.",
+            "imdbRating": "8.6",
+            "imdbID": "tt0245429",
+            "image": null
+        },
+        {
+            "id": 43,
+            "Title": "North by Northwest",
+            "Rated": "Approved",
+            "Released": "26 Sep 1959",
+            "Runtime": "2 h 16 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Crime",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Alfred Hitchcock",
+            "Writer": "Ernest Lehman",
+            "Actors": "Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis",
+            "Plot": "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0053125",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Northbynorthwest1.jpg/100px-Northbynorthwest1.jpg"
+        },
+        {
+            "id": 44,
+            "Title": "Back to the Future",
+            "Rated": "PG",
+            "Released": "03 Jul 1985",
+            "Runtime": "1 h 56 min",
+            "Genre": [
+                "Adventure",
+                "Comedy",
+                "Sci-Fi"
+            ],
+            "Director": "Robert Zemeckis",
+            "Writer": "Robert Zemeckis, Bob Gale",
+            "Actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+            "Plot": "A teenager is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0088763",
+            "image": null
+        },
+        {
+            "id": 45,
+            "Title": "Life Is Beautiful",
+            "Rated": "PG-13",
+            "Released": "12 Feb 1999",
+            "Runtime": "1 h 56 min",
+            "Genre": [
+                "Comedy",
+                "Drama",
+                "Romance",
+                "War"
+            ],
+            "Director": "Roberto Benigni",
+            "Writer": "Vincenzo Cerami, Roberto Benigni",
+            "Actors": "Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano",
+            "Plot": "A Jewish man has a wonderful romance with the help of his humour, but must use that same quality to protect his son in a Nazi death camp.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0118799",
+            "image": null
+        },
+        {
+            "id": 46,
+            "Title": "The Shining",
+            "Rated": "R",
+            "Released": "23 May 1980",
+            "Runtime": "2 h 22 min",
+            "Genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "Director": "Stanley Kubrick",
+            "Writer": "Stephen King, Stanley Kubrick",
+            "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+            "Plot": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0081505",
+            "image": null
+        },
+        {
+            "id": 47,
+            "Title": "The Pianist",
+            "Rated": "R",
+            "Released": "28 Mar 2003",
+            "Runtime": "2 h 30 min",
+            "Genre": [
+                "Biography",
+                "Drama",
+                "History",
+                "War"
+            ],
+            "Director": "Roman Polanski",
+            "Writer": "Ronald Harwood, Wladyslaw Szpilman",
+            "Actors": "Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox",
+            "Plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0253474",
+            "image": null
+        },
+        {
+            "id": 48,
+            "Title": "Citizen Kane",
+            "Rated": "Approved",
+            "Released": "05 Sep 1941",
+            "Runtime": "1 h 59 min",
+            "Genre": [
+                "Drama",
+                "Mystery"
+            ],
+            "Director": "Orson Welles",
+            "Writer": "Herman J. Mankiewicz, Orson Welles",
+            "Actors": "Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead",
+            "Plot": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0033467",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/100px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg"
+        },
+        {
+            "id": 49,
+            "Title": "The Departed",
+            "Rated": "R",
+            "Released": "06 Oct 2006",
+            "Runtime": "2 h 31 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Martin Scorsese",
+            "Writer": "William Monahan, Alan Mak",
+            "Actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",
+            "Plot": "An undercover state cop who has infiltrated an Irish gang and a mole in the police force working for the same mob race to track down and identify each other before being exposed to the enemy, after both sides realize their outfit has a rat.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0407887",
+            "image": null
+        },
+        {
+            "id": 50,
+            "Title": "M",
+            "Rated": "Not Rated",
+            "Released": "31 Aug 1931",
+            "Runtime": "1 h 39 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Fritz Lang",
+            "Writer": "Thea von Harbou, Fritz Lang",
+            "Actors": "Peter Lorre, Ellen Widmann, Inge Landgut, Otto Wernicke",
+            "Plot": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0022100",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Latin_letter_M.svg/100px-Latin_letter_M.svg.png"
+        },
+        {
+            "id": 51,
+            "Title": "Paths of Glory",
+            "Rated": "Approved",
+            "Released": "25 Oct 1957",
+            "Runtime": "1 h 28 min",
+            "Genre": [
+                "Drama",
+                "War"
+            ],
+            "Director": "Stanley Kubrick",
+            "Writer": "Stanley Kubrick, Calder Willingham",
+            "Actors": "Kirk Douglas, Ralph Meeker, Adolphe Menjou, George Macready",
+            "Plot": "When soldiers in World War I refuse to continue with an impossible attack, their superior officers decide to make an example of them.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0050825",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Paths_of_Glory_%281957_poster%29.jpg/100px-Paths_of_Glory_%281957_poster%29.jpg"
+        },
+        {
+            "id": 52,
+            "Title": "Vertigo",
+            "Rated": "Approved",
+            "Released": "21 Jul 1958",
+            "Runtime": "2 h 9 min",
+            "Genre": [
+                "Mystery",
+                "Romance",
+                "Thriller"
+            ],
+            "Director": "Alfred Hitchcock",
+            "Writer": "Alec Coppel, Samuel A. Taylor",
+            "Actors": "James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore",
+            "Plot": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0052357",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/3D_still_showing_Vertigo.jpg/100px-3D_still_showing_Vertigo.jpg"
+        },
+        {
+            "id": 53,
+            "Title": "Django Unchained",
+            "Rated": "R",
+            "Released": "25 Dec 2012",
+            "Runtime": "2 h 45 min",
+            "Genre": [
+                "Adventure",
+                "Drama",
+                "Western"
+            ],
+            "Director": "Quentin Tarantino",
+            "Writer": "Quentin Tarantino",
+            "Actors": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington",
+            "Plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+            "imdbRating": "8.5",
+            "imdbID": "tt1853728",
+            "image": null
+        },
+        {
+            "id": 54,
+            "Title": "Double Indemnity",
+            "Rated": "Approved",
+            "Released": "24 Apr 1944",
+            "Runtime": "1 h 47 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Film-Noir",
+                "Thriller"
+            ],
+            "Director": "Billy Wilder",
+            "Writer": "Billy Wilder, Raymond Chandler",
+            "Actors": "Fred MacMurray, Barbara Stanwyck, Edward G. Robinson, Byron Barr",
+            "Plot": "An insurance rep lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0036775",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Double_Indemnity_%281944_poster%29.jpg/100px-Double_Indemnity_%281944_poster%29.jpg"
+        },
+        {
+            "id": 55,
+            "Title": "The Dark Knight Rises",
+            "Rated": "PG-13",
+            "Released": "20 Jul 2012",
+            "Runtime": "2 h 45 min",
+            "Genre": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "Director": "Christopher Nolan",
+            "Writer": "Jonathan Nolan, Christopher Nolan",
+            "Actors": "Christian Bale, Tom Hardy, Anne Hathaway, Gary Oldman",
+            "Plot": "Eight years on, a new evil rises from where the Batman and Commissioner Gordon tried to bury it, causing the Batman to resurface and fight to protect Gotham City... the very city which brands him an enemy.",
+            "imdbRating": "8.5",
+            "imdbID": "tt1345836",
+            "image": null
+        },
+        {
+            "id": 56,
+            "Title": "Aliens",
+            "Rated": "R",
+            "Released": "18 Jul 1986",
+            "Runtime": "2 h 34 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi",
+                "Thriller"
+            ],
+            "Director": "James Cameron",
+            "Writer": "James Cameron, David Giler",
+            "Actors": "Sigourney Weaver, Michael Biehn, Carrie Henn, Paul Reiser",
+            "Plot": "The planet from 'Alien' has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?",
+            "imdbRating": "8.5",
+            "imdbID": "tt0090605",
+            "image": null
+        },
+        {
+            "id": 57,
+            "Title": "Taxi Driver",
+            "Rated": "R",
+            "Released": "08 Feb 1976",
+            "Runtime": "1 h 53 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Martin Scorsese",
+            "Writer": "Paul Schrader",
+            "Actors": "Robert De Niro, Jodie Foster, Cybill Shepherd, Albert Brooks",
+            "Plot": "A mentally unstable Viet Nam war veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0075314",
+            "image": null
+        },
+        {
+            "id": 58,
+            "Title": "American Beauty",
+            "Rated": "R",
+            "Released": "01 Oct 1999",
+            "Runtime": "2 h 2 min",
+            "Genre": [
+                "Drama"
+            ],
+            "Director": "Sam Mendes",
+            "Writer": "Alan Ball",
+            "Actors": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
+            "Plot": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation for his daughter's attractive friend.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0169547",
+            "image": null
+        },
+        {
+            "id": 59,
+            "Title": "The Green Mile",
+            "Rated": "R",
+            "Released": "10 Dec 1999",
+            "Runtime": "3 h 9 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Fantasy",
+                "Mystery"
+            ],
+            "Director": "Frank Darabont",
+            "Writer": "Stephen King, Frank Darabont",
+            "Actors": "Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt",
+            "Plot": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0120689",
+            "image": null
+        },
+        {
+            "id": 60,
+            "Title": "Gladiator",
+            "Rated": "R",
+            "Released": "05 May 2000",
+            "Runtime": "2 h 35 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Drama"
+            ],
+            "Director": "Ridley Scott",
+            "Writer": "David Franzoni, David Franzoni",
+            "Actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",
+            "Plot": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0172495",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gladiators_from_the_Zliten_mosaic_3.JPG/100px-Gladiators_from_the_Zliten_mosaic_3.JPG"
+        },
+        {
+            "id": 61,
+            "Title": "The Intouchables",
+            "Rated": "R",
+            "Released": "02 Nov 2011",
+            "Runtime": "1 h 52 min",
+            "Genre": [
+                "Biography",
+                "Comedy",
+                "Drama"
+            ],
+            "Director": "Olivier Nakache, Eric Toledano",
+            "Writer": "Olivier Nakache, Eric Toledano",
+            "Actors": "François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot",
+            "Plot": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caretaker.",
+            "imdbRating": "8.5",
+            "imdbID": "tt1675434",
+            "image": null
+        },
+        {
+            "id": 62,
+            "Title": "WALL·E",
+            "Rated": "G",
+            "Released": "27 Jun 2008",
+            "Runtime": "1 h 38 min",
+            "Genre": [
+                "Animation",
+                "Adventure",
+                "Family",
+                "Romance",
+                "Sci-Fi"
+            ],
+            "Director": "Andrew Stanton",
+            "Writer": "Andrew Stanton, Pete Docter",
+            "Actors": "Ben Burtt, Elissa Knight, Jeff Garlin, Fred Willard",
+            "Plot": "In the distant future, a small waste collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0910970",
+            "image": null
+        },
+        {
+            "id": 63,
+            "Title": "The Lives of Others",
+            "Rated": "R",
+            "Released": "23 Mar 2006",
+            "Runtime": "2 h 17 min",
+            "Genre": [
+                "Drama",
+                "Thriller"
+            ],
+            "Director": "Florian Henckel von Donnersmarck",
+            "Writer": "Florian Henckel von Donnersmarck",
+            "Actors": "Ulrich Mühe, Martina Gedeck, Sebastian Koch, Ulrich Tukur",
+            "Plot": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+            "imdbRating": "8.5",
+            "imdbID": "tt0405094",
+            "image": null
+        },
+        {
+            "id": 64,
+            "Title": "Toy Story 3",
+            "Rated": "G",
+            "Released": "18 Jun 2010",
+            "Runtime": "1 h 43 min",
+            "Genre": [
+                "Animation",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "Director": "Lee Unkrich",
+            "Writer": "John Lasseter, Andrew Stanton",
+            "Actors": "Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty",
+            "Plot": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0435761",
+            "image": null
+        },
+        {
+            "id": 65,
+            "Title": "The Great Dictator",
+            "Rated": "Approved",
+            "Released": "07 Mar 1941",
+            "Runtime": "2 h 5 min",
+            "Genre": [
+                "Comedy",
+                "Drama",
+                "War"
+            ],
+            "Director": "Charles Chaplin",
+            "Writer": "Charles Chaplin",
+            "Actors": "Charles Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner",
+            "Plot": "Dictator Adenoid Hynkel has a doppelganger, a poor but kind Jewish barber living in the slums, who one day is mistaken for Hynkel.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0032553",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Great_Dictator_%281940%29_poster.jpg/100px-The_Great_Dictator_%281940%29_poster.jpg"
+        },
+        {
+            "id": 66,
+            "Title": "The Prestige",
+            "Rated": "PG-13",
+            "Released": "20 Oct 2006",
+            "Runtime": "2 h 10 min",
+            "Genre": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Christopher Nolan",
+            "Writer": "Jonathan Nolan, Christopher Nolan",
+            "Actors": "Christian Bale, Hugh Jackman, Scarlett Johansson, Michael Caine",
+            "Plot": "The rivalry between two magicians becomes more exacerbated by their attempt to perform the ultimate illusion.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0482571",
+            "image": null
+        },
+        {
+            "id": 67,
+            "Title": "A Clockwork Orange",
+            "Rated": "X",
+            "Released": "02 Feb 1972",
+            "Runtime": "2 h 16 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "Director": "Stanley Kubrick",
+            "Writer": "Stanley Kubrick, Anthony Burgess",
+            "Actors": "Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",
+            "Plot": "In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem... but not all goes to plan.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0066921",
+            "image": null
+        },
+        {
+            "id": 68,
+            "Title": "Lawrence of Arabia",
+            "Rated": "PG",
+            "Released": "30 Jan 1963",
+            "Runtime": "3 h 47 min",
+            "Genre": [
+                "Adventure",
+                "Biography",
+                "Drama",
+                "History",
+                "War"
+            ],
+            "Director": "David Lean",
+            "Writer": "T.E. Lawrence, Robert Bolt",
+            "Actors": "Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins",
+            "Plot": "A flamboyant and controversial British military figure and his conflicted loyalties during his World War I service in Arabia.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0056172",
+            "image": null
+        },
+        {
+            "id": 69,
+            "Title": "Amélie",
+            "Rated": "R",
+            "Released": "25 Apr 2001",
+            "Runtime": "2 h 2 min",
+            "Genre": [
+                "Comedy",
+                "Romance"
+            ],
+            "Director": "Jean-Pierre Jeunet",
+            "Writer": "Guillaume Laurant, Jean-Pierre Jeunet",
+            "Actors": "Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta",
+            "Plot": "Amelie, an innocent and naive girl in Paris, with her own sense of justice, decides to help those around her and along the way, discovers love.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0211915",
+            "image": null
+        },
+        {
+            "id": 70,
+            "Title": "To Kill a Mockingbird",
+            "Rated": "Approved",
+            "Released": "16 Mar 1963",
+            "Runtime": "2 h 9 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "Director": "Robert Mulligan",
+            "Writer": "Harper Lee, Horton Foote",
+            "Actors": "Gregory Peck, John Megna, Frank Overton, Rosemary Murphy",
+            "Plot": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0056592",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/100px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg"
+        },
+        {
+            "id": 71,
+            "Title": "Reservoir Dogs",
+            "Rated": "R",
+            "Released": "23 Oct 1992",
+            "Runtime": "1 h 39 min",
+            "Genre": [
+                "Crime",
+                "Thriller"
+            ],
+            "Director": "Quentin Tarantino",
+            "Writer": "Quentin Tarantino, Roger Avary",
+            "Actors": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+            "Plot": "After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0105236",
+            "image": null
+        },
+        {
+            "id": 72,
+            "Title": "Das Boot",
+            "Rated": "R",
+            "Released": "10 Feb 1982",
+            "Runtime": "2 h 29 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "History",
+                "War"
+            ],
+            "Director": "Wolfgang Petersen",
+            "Writer": "Wolfgang Petersen, Lothar G. Buchheim",
+            "Actors": "Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann, Hubertus Bengsch",
+            "Plot": "The claustrophobic world of a WWII German U-boat; boredom, filth, and sheer terror.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0082096",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Das_Boot%2C_the_tower.jpg/100px-Das_Boot%2C_the_tower.jpg"
+        },
+        {
+            "id": 73,
+            "Title": "The Lion King",
+            "Rated": "G",
+            "Released": "24 Jun 1994",
+            "Runtime": "1 h 29 min",
+            "Genre": [
+                "Animation",
+                "Adventure",
+                "Drama",
+                "Family",
+                "Musical"
+            ],
+            "Director": "Roger Allers, Rob Minkoff",
+            "Writer": "Irene Mecchi, Jonathan Roberts",
+            "Actors": "Matthew Broderick, Jeremy Irons, James Earl Jones, Whoopi Goldberg",
+            "Plot": "Tricked into thinking he killed his father, a guilt ridden lion cub flees into exile and abandons his identity as the future King.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0110357",
+            "image": null
+        },
+        {
+            "id": 74,
+            "Title": "Cinema Paradiso",
+            "Rated": "PG",
+            "Released": "23 Feb 1990",
+            "Runtime": "2 h 35 min",
+            "Genre": [
+                "Drama"
+            ],
+            "Director": "Giuseppe Tornatore",
+            "Writer": "Giuseppe Tornatore, Giuseppe Tornatore",
+            "Actors": "Philippe Noiret, Enzo Cannavale, Antonella Attili, Isa Danieli",
+            "Plot": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0095765",
+            "image": null
+        },
+        {
+            "id": 75,
+            "Title": "Star Wars: Episode VI - Return of the Jedi",
+            "Rated": "PG",
+            "Released": "25 May 1983",
+            "Runtime": "2 h 14 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Sci-Fi"
+            ],
+            "Director": "Richard Marquand",
+            "Writer": "Lawrence Kasdan, George Lucas",
+            "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+            "Plot": "After rescuing Han Solo from the palace of Jabba the Hutt, the Rebels attempt to destroy the Second Death Star, while Luke Skywalker tries to bring his father back to the Light Side of the Force.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0086190",
+            "image": null
+        },
+        {
+            "id": 76,
+            "Title": "The Treasure of the Sierra Madre",
+            "Rated": "Approved",
+            "Released": "24 Jan 1948",
+            "Runtime": "2 h 6 min",
+            "Genre": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Western"
+            ],
+            "Director": "John Huston",
+            "Writer": "John Huston, B. Traven",
+            "Actors": "Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett",
+            "Plot": "Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0040897",
+            "image": null
+        },
+        {
+            "id": 77,
+            "Title": "The Third Man",
+            "Rated": "Approved",
+            "Released": "31 Aug 1949",
+            "Runtime": "1 h 33 min",
+            "Genre": [
+                "Film-Noir",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Carol Reed",
+            "Writer": "Graham Greene, Graham Greene",
+            "Actors": "Orson Welles, Joseph Cotten, Alida Valli, Trevor Howard",
+            "Plot": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, black-market opportunist Harry Lime.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0041959",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Third_Man_%281949_American_theatrical_poster%29.jpg/100px-The_Third_Man_%281949_American_theatrical_poster%29.jpg"
+        },
+        {
+            "id": 78,
+            "Title": "Once Upon a Time in America",
+            "Rated": "R",
+            "Released": "23 May 1984",
+            "Runtime": "2 h 19 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Sergio Leone",
+            "Writer": "Harry Grey, Leonardo Benvenuti",
+            "Actors": "Robert De Niro, James Woods, Elizabeth McGovern, Joe Pesci",
+            "Plot": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0087843",
+            "image": null
+        },
+        {
+            "id": 79,
+            "Title": "Requiem for a Dream",
+            "Rated": "Unrated",
+            "Released": "27 Oct 2000",
+            "Runtime": "1 h 42 min",
+            "Genre": [
+                "Drama"
+            ],
+            "Director": "Darren Aronofsky",
+            "Writer": "Hubert Selby Jr., Hubert Selby Jr.",
+            "Actors": "Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans",
+            "Plot": "The drug-induced utopias of four Coney Island individuals are shattered when their addictions become stronger.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0180093",
+            "image": null
+        },
+        {
+            "id": 80,
+            "Title": "Eternal Sunshine of the Spotless Mind",
+            "Rated": "R",
+            "Released": "19 Mar 2004",
+            "Runtime": "1 h 48 min",
+            "Genre": [
+                "Drama",
+                "Romance",
+                "Sci-Fi"
+            ],
+            "Director": "Michel Gondry",
+            "Writer": "Charlie Kaufman, Michel Gondry",
+            "Actors": "Jim Carrey, Kate Winslet, Tom Wilkinson, Gerry Robert Byrne",
+            "Plot": "A couple undergo a procedure to erase each other from their memories when their relationship turns sour, but it is only through the process of loss that they discover what they had to begin with.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0338013",
+            "image": null
+        },
+        {
+            "id": 81,
+            "Title": "Full Metal Jacket",
+            "Rated": "R",
+            "Released": "26 Jun 1987",
+            "Runtime": "1 h 56 min",
+            "Genre": [
+                "Drama",
+                "War"
+            ],
+            "Director": "Stanley Kubrick",
+            "Writer": "Gustav Hasford, Stanley Kubrick",
+            "Actors": "Matthew Modine, R. Lee Ermey, Vincent D'Onofrio, Adam Baldwin",
+            "Plot": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0093058",
+            "image": null
+        },
+        {
+            "id": 82,
+            "Title": "Oldboy",
+            "Rated": "R",
+            "Released": "21 Nov 2003",
+            "Runtime": "2 h",
+            "Genre": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Chan-wook Park",
+            "Writer": "Garon Tsuchiya, Nobuaki Minegishi",
+            "Actors": "Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji",
+            "Plot": "After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0364569",
+            "image": null
+        },
+        {
+            "id": 83,
+            "Title": "Braveheart",
+            "Rated": "R",
+            "Released": "24 May 1995",
+            "Runtime": "2 h 57 min",
+            "Genre": [
+                "Action",
+                "Biography",
+                "Drama",
+                "History",
+                "War"
+            ],
+            "Director": "Mel Gibson",
+            "Writer": "Randall Wallace",
+            "Actors": "Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen",
+            "Plot": "When his secret bride is executed for assaulting an English soldier who tried to rape her, a commoner begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron fist.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0112573",
+            "image": null
+        },
+        {
+            "id": 84,
+            "Title": "L.A. Confidential",
+            "Rated": "TV-MA",
+            "Released": "19 Sep 1997",
+            "Runtime": "2 h 18 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Curtis Hanson",
+            "Writer": "James Ellroy, Brian Helgeland",
+            "Actors": "Kevin Spacey, Russell Crowe, Guy Pearce, Kim Basinger",
+            "Plot": "As corruption grows in 1950s LA, three policemen - the straight-laced, the brutal, and the sleazy - investigate a series of murders with their own brand of justice.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0119488",
+            "image": null
+        },
+        {
+            "id": 85,
+            "Title": "Bicycle Thieves",
+            "Rated": "Not Rated",
+            "Released": "13 Dec 1949",
+            "Runtime": "1 h 33 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Vittorio De Sica",
+            "Writer": "Luigi Bartolini, Cesare Zavattini",
+            "Actors": "Lamberto Maggiorani, Enzo Staiola, Lianella Carell, Gino Saltamerenda",
+            "Plot": "A man and his son search for a stolen bicycle vital for his job.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0040522",
+            "image": null
+        },
+        {
+            "id": 86,
+            "Title": "Chinatown",
+            "Rated": "TV-14",
+            "Released": "20 Jun 1974",
+            "Runtime": "2 h 10 min",
+            "Genre": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "Director": "Roman Polanski",
+            "Writer": "Robert Towne",
+            "Actors": "Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez",
+            "Plot": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption and murder.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0071315",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Chinatown_-_East_Broadway.jpg/100px-Chinatown_-_East_Broadway.jpg"
+        },
+        {
+            "id": 87,
+            "Title": "Singin' in the Rain",
+            "Rated": "G",
+            "Released": "11 Apr 1952",
+            "Runtime": "1 h 43 min",
+            "Genre": [
+                "Comedy",
+                "Musical",
+                "Romance"
+            ],
+            "Director": "Stanley Donen, Gene Kelly",
+            "Writer": "Adolph Green, Betty Comden",
+            "Actors": "Gene Kelly, Donald O'Connor, Debbie Reynolds, Jean Hagen",
+            "Plot": "A silent film production company and cast make a difficult transition to sound.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0045152",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Singin%27_in_the_Rain_%281952_poster%29.jpg/100px-Singin%27_in_the_Rain_%281952_poster%29.jpg"
+        },
+        {
+            "id": 88,
+            "Title": "Princess Mononoke",
+            "Rated": "PG-13",
+            "Released": "26 Nov 1999",
+            "Runtime": "2 h 14 min",
+            "Genre": [
+                "Animation",
+                "Adventure",
+                "Fantasy"
+            ],
+            "Director": "Hayao Miyazaki",
+            "Writer": "Hayao Miyazaki",
+            "Actors": "Yôji Matsuda, Yuriko Ishida, Yûko Tanaka, Billy Crudup",
+            "Plot": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0119698",
+            "image": null
+        },
+        {
+            "id": 89,
+            "Title": "Monty Python and the Holy Grail",
+            "Rated": "PG",
+            "Released": "25 May 1975",
+            "Runtime": "1 h 31 min",
+            "Genre": [
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ],
+            "Director": "Terry Gilliam, Terry Jones",
+            "Writer": "Graham Chapman, John Cleese",
+            "Actors": "Graham Chapman, John Cleese, Eric Idle, Terry Gilliam",
+            "Plot": "King Arthur and his knights embark on a low-budget search for the Grail, encountering many very silly obstacles.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0071853",
+            "image": null
+        },
+        {
+            "id": 90,
+            "Title": "Metropolis",
+            "Rated": "Not Rated",
+            "Released": "13 Mar 1927",
+            "Runtime": "1 h 54 min",
+            "Genre": [
+                "Drama",
+                "Sci-Fi"
+            ],
+            "Director": "Fritz Lang",
+            "Writer": "Thea von Harbou, Thea von Harbou",
+            "Actors": "Brigitte Helm, Alfred Abel, Gustav Fröhlich, Rudolf Klein-Rogge",
+            "Plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0017136",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/100px-Skyscrapers_of_Shinjuku_2009_January.jpg"
+        },
+        {
+            "id": 91,
+            "Title": "Rashomon",
+            "Rated": "Unrated",
+            "Released": "26 Dec 1951",
+            "Runtime": "1 h 28 min",
+            "Genre": [
+                "Crime",
+                "Drama"
+            ],
+            "Director": "Akira Kurosawa",
+            "Writer": "Ryûnosuke Akutagawa, Akira Kurosawa",
+            "Actors": "Toshirô Mifune, Machiko Kyô, Masayuki Mori, Takashi Shimura",
+            "Plot": "A heinous crime and its aftermath are recalled from differing points of view.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0042876",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rashomon_poster.jpg/100px-Rashomon_poster.jpg"
+        },
+        {
+            "id": 92,
+            "Title": "Some Like It Hot",
+            "Rated": "Approved",
+            "Released": "29 Mar 1959",
+            "Runtime": "2 h",
+            "Genre": [
+                "Comedy"
+            ],
+            "Director": "Billy Wilder",
+            "Writer": "Billy Wilder, I.A.L. Diamond",
+            "Actors": "Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft",
+            "Plot": "When two musicians witness a mob hit, they flee the state in an all female band disguised as women, but further complications set in.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0053291",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Some_Like_It_Hot_%281959_poster%29.png/100px-Some_Like_It_Hot_%281959_poster%29.png"
+        },
+        {
+            "id": 93,
+            "Title": "Amadeus",
+            "Rated": "PG",
+            "Released": "19 Sep 1984",
+            "Runtime": "2 h 40 min",
+            "Genre": [
+                "Biography",
+                "Drama",
+                "Music"
+            ],
+            "Director": "Milos Forman",
+            "Writer": "Peter Shaffer, Peter Shaffer",
+            "Actors": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice",
+            "Plot": "The incredible story of Wolfgang Amadeus Mozart, told by his peer and secret rival Antonio Salieri - now confined to an insane asylum.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0086879",
+            "image": null
+        },
+        {
+            "id": 94,
+            "Title": "2001: A Space Odyssey",
+            "Rated": "G",
+            "Released": "11 Apr 1968",
+            "Runtime": "2 h 40 min",
+            "Genre": [
+                "Adventure",
+                "Mystery",
+                "Sci-Fi"
+            ],
+            "Director": "Stanley Kubrick",
+            "Writer": "Stanley Kubrick, Arthur C. Clarke",
+            "Actors": "Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",
+            "Plot": "Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0062622",
+            "image": null
+        },
+        {
+            "id": 95,
+            "Title": "All About Eve",
+            "Rated": "Approved",
+            "Released": "15 Jan 1951",
+            "Runtime": "2 h 18 min",
+            "Genre": [
+                "Drama"
+            ],
+            "Director": "Joseph L. Mankiewicz",
+            "Writer": "Joseph L. Mankiewicz",
+            "Actors": "Bette Davis, Anne Baxter, George Sanders, Celeste Holm",
+            "Plot": "An ingenue insinuates herself in to the company of an established but aging stage actress and her circle of theater friends.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0042192",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/All_About_Eve_%281950_poster_-_retouch%29.jpg/100px-All_About_Eve_%281950_poster_-_retouch%29.jpg"
+        },
+        {
+            "id": 96,
+            "Title": "Witness for the Prosecution",
+            "Rated": "Approved",
+            "Released": "06 Feb 1958",
+            "Runtime": "1 h 56 min",
+            "Genre": [
+                "Drama",
+                "Mystery"
+            ],
+            "Director": "Billy Wilder",
+            "Writer": "Agatha Christie, Billy Wilder",
+            "Actors": "Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester",
+            "Plot": "Agatha Christie tale of a man on trial for murder: a trial featuring surprise after surprise.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0051201",
+            "image": null
+        },
+        {
+            "id": 97,
+            "Title": "The Sting",
+            "Rated": "PG",
+            "Released": "10 Jan 1974",
+            "Runtime": "2 h 9 min",
+            "Genre": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "Director": "George Roy Hill",
+            "Writer": "David S. Ward",
+            "Actors": "Paul Newman, Robert Redford, Robert Shaw, Charles Durning",
+            "Plot": "In 1930s Chicago, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0070735",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Sting_%281973_alt_poster%29.jpeg/100px-The_Sting_%281973_alt_poster%29.jpeg"
+        },
+        {
+            "id": 98,
+            "Title": "The Apartment",
+            "Rated": "Approved",
+            "Released": "16 Sep 1960",
+            "Runtime": "2 h 5 min",
+            "Genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "Director": "Billy Wilder",
+            "Writer": "Billy Wilder, I.A.L. Diamond",
+            "Actors": "Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston",
+            "Plot": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0053604",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Apartment_%281960_poster%29.jpg/100px-The_Apartment_%281960_poster%29.jpg"
+        },
+        {
+            "id": 99,
+            "Title": "Grave of the Fireflies",
+            "Rated": "Unrated",
+            "Released": "16 Apr 1988",
+            "Runtime": "1 h 29 min",
+            "Genre": [
+                "Animation",
+                "Drama",
+                "War"
+            ],
+            "Director": "Isao Takahata",
+            "Writer": "Akiyuki Nosaka, Isao Takahata",
+            "Actors": "Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi, Yoshiko Shinohara",
+            "Plot": "A tragic film covering a young boy and his little sister's struggle to survive in Japan during World War II.",
+            "imdbRating": "8.4",
+            "imdbID": "tt0095327",
+            "image": null
+        },
+        {
+            "id": 100,
+            "Title": "Indiana Jones and the Last Crusade",
+            "Rated": "E",
+            "Released": "24 May 1989",
+            "Runtime": "2 h 7 min",
+            "Genre": [
+                "Action",
+                "Adventure"
+            ],
+            "Director": "Steven Spielberg",
+            "Writer": "Jeffrey Boam, George Lucas",
+            "Actors": "Harrison Ford, Sean Connery, Alison Doody, Denholm Elliott",
+            "Plot": "When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.",
+            "imdbRating": "8.3",
+            "imdbID": "tt0097576",
+            "image": null
+        }
+    ]
+}
