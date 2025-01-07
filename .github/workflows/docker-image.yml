@@ -16,7 +16,7 @@ jobs:
           echo "TAG=$(date +%s)" >> $GITHUB_ENV
       - uses: actions/checkout@v4
       - run: |
-          docker build . --file Dockerfile.angular --tag ghcr.io/zoltaibalazs/top100movies/$TAG --tag ghcr.io/zoltaibalazs/top100movies:latest
+          docker build . --file Dockerfile.angular --tag ghcr.io/zoltaibalazs/top100movies:$TAG --tag ghcr.io/zoltaibalazs/top100movies:latest
           docker login ghcr.io -u zoltaibalazs -p ${{secrets.GHCR_TOKEN}}
           docker push ghcr.io/zoltaibalazs/top100movies:$TAG
           docker push ghcr.io/zoltaibalazs/top100movies:latest
