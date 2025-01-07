@@ -1,0 +1,23 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+npm-debug.log
+yarn-error.log
+
+# Ignore any IDE/editor-specific files
+.vscode/
+.idea/
+
+# Ignore the dist/ folder (Angular build output)
+dist/
+
+# Ignore the Dockerfile itself (optional if not needed in the image)
+Dockerfile
+Dockerfile-json-server
+
+# Ignore any temporary or build files
+*.log
+*.md
+*.git
+.git/

@@ -1,0 +1,19 @@
+services:
+  json-server:
+    build:
+      context: .
+      dockerfile: Dockerfile.json
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./db_transformed.json:/db/db_transformed.json
+    command: ["json-server", "/db/db_transformed.json", "--host", "0.0.0.0", "--port", "3000"]
+
+  angular:
+    build:
+      context: .
+      dockerfile: Dockerfile.angular
+    ports:
+      - "4200:80"
+    depends_on:
+      - json-server
