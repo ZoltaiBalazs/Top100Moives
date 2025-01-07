@@ -6,29 +6,10 @@ import { HeaderComponent } from './components/header/header.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [MovieListComponent, HeaderComponent],
+  imports: [MovieListComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
-export class AppComponent implements OnInit {
+export class AppComponent {
   title = 'top100Movies';
-  movies: any[] = [];
-  isTableView = true;
-
-  constructor(private movieService: MovieService) {}
-
-  ngOnInit() {
-    this.fetchMovies();
-  }
-
-  fetchMovies(): void {
-    this.movieService.getMovies().subscribe((data) => {
-      this.movies = data;
-    });
-  }
-
-  toggleView(): void {
-    this.isTableView = !this.isTableView;
-  }
-
 }

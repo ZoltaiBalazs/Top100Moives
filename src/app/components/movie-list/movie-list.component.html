@@ -1,30 +1,66 @@
-<ul class="movie-list">
-  @for (movie of movies; track movie.id) {
-    <li class="movie-item">
-      <div class="movie-poster">
-        <img [src]="movie.image" alt="{{ movie.title }} poster">
+<app-header [movies]="movies"></app-header>
+
+<div class="content">
+  <div class="toolbar">
+    <div class="search-bar-container">
+      <input
+        type="text"
+        class="search-bar"
+        placeholder="Search movies..."
+        (input)="onSearch($event)"
+      />
+    </div>
+    <div class="add-btn">
+      <div (click)="openEdit(null)">
+        <img src="add.png" alt="info-icon">
       </div>
-  
-      <div class="movie-details">
-        <div class="movie-header">
-          <h3 class="movie-title">{{ movie.id }}. {{ movie.Title }}</h3>
+    </div>
+  </div>
+  <ul class="movie-list">
+    @for (movie of movies; track movie.id) {
+      <li class="movie-item">
+        <div class="movie-poster">
+          <img [src]="movie.image" alt="{{ movie.title }} poster">
         </div>
-        <div class="movie-info">
-          <span class="release-date">{{ movie.Released }}</span>
-          <span class="runtime">{{ movie.Runtime }}</span>
-          <span class="rating">{{ movie.Rated }}</span>
+    
+        <div class="movie-details">
+          <div class="movie-header">
+            <h3 class="movie-title">{{ movie.id }}. {{ movie.Title }}</h3>
+          </div>
+          <div class="movie-info">
+            <span class="release-date">{{ movie.Released }}</span>
+            <span class="runtime">{{ movie.Runtime }}</span>
+            <span class="rating">{{ movie.Rated }}</span>
+          </div>
+          <div class="movie-rating">
+            <div>
+              <img src="star.png" alt="star-icon">
+            </div>
+            <span class="rating-value">{{ movie.imdbRating }}</span>
+          </div>
         </div>
-        <div class="movie-rating">
-          <span class="rating-value">{{ movie.imdbRating }}</span>
-          <i class="fa fa-star"></i> <!-- Small star icon -->
+    
+        <div class="movie-info-button">
+          <div title="See more info about {{ movie.Title }}" (click)="openModal(movie)">
+            <img src="info.png" alt="info-icon" title="See more info about {{ movie.Title }}">
+          </div>
         </div>
-      </div>
-  
-      <div class="movie-info-button">
-        <button class="info-button">
-          <i class="fa fa-info-circle"></i> <!-- Info Icon -->
-        </button>
-      </div>
-    </li>
+      </li>
+    }
+  </ul>
+  @if (isModalOpen) {
+    <app-movie-modal
+      [movie]="selectedMovie"  
+      [movies]="movies"    
+      (edit)="openEdit(selectedMovie)"
+      (close)="closeModal()">
+    </app-movie-modal>
   }
-</ul>
+  @if (isEditOpen) {
+    <app-edit
+      [movie]="selectedMovie"
+      [movies]="allMovies"
+      (close)="closeEdit()">
+    </app-edit>
+  }
+</div>
