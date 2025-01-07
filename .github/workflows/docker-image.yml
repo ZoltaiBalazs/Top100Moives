@@ -1,0 +1,22 @@
+name: Docker Image CI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: |
+          echo "TAG=$(date +%s)" >> $GITHUB_ENV
+      - uses: actions/checkout@v4
+      - run: |
+          docker build . --file Dockerfile.angular --tag ghcr.io/ZoltaiBalazs/Top100Movies:$TAG --tag ghcr.io/ZoltaiBalazs/Top100Movies:latest
+          docker login ghcr.io -u ZoltaiBalazs -p ${{secrets.GHCR_TOKEN}}
+          docker push ghcr.io/ZoltaiBalazs/Top100Movies:$TAG
+          docker push ghcr.io/ZoltaiBalazs/Top100Movies:latest
